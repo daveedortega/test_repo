@@ -6,3 +6,5 @@ for (i in LETTERS){
     print("HIT")
   }
 }
+
+print("idk what's happening")
